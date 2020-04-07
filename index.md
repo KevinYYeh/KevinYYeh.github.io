@@ -1,10 +1,18 @@
-# kevin's site
+# bootstrap
 
-I plan to share stuff i write (esseys, notes...) here. This site looks like somethingfrom the 80s, but since
+Sharing stuff I read or think about intelligence. Both artificial and natural; about its source and absence.
 
-1. it's so minimalist that i like it; 
+Also to practice writing and to clear up my thoughts.
+
+---
+
+I was looking for a 'minimalist' theme for the site, but 
+
+1. plain markdown is about as minimalist as one site can be;
 2. I'm lazy;
 
-might as well go with it...until there are actual people reading ;)
+So, yeah, i might as well go with it...until there are actual people showing up ;)
+
+## contents 
 
 [hi! link test](https://kevinyyeh.github.io/hi.html)
