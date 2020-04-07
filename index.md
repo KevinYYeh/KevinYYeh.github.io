@@ -1,3 +1,3 @@
 # kevin's site
 
-[hi!](hi.html)
+[hi!](https://kevinyyeh.github.io/hi.html)
