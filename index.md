@@ -10,6 +10,8 @@ Also to practice writing and to clear up my thoughts.
 
 ---
 
+# *o thy site hurts my eyes*
+
 I was looking for a 'minimalist' theme for the site, but 
 
 1. plain markdown is about as minimalist as one site can be;
